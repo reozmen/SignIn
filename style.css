@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    border: 20px solid;
+    width: 600px;
+    margin: auto;
+    margin-top: 100px;
+    font-family: sans-serif;
+    border-image: linear-gradient(
+        180deg,rgb(255, 196, 0), rgb(255, 81, 0),rgb(200, 255, 0),rgb(145, 255, 0),rgb(0, 128, 111),rgb(255, 0, 55), purple)1;
+   
+}
+
+form{
+    /* border: 2px solid blue; */
+    
+}
+
+.title{
+    text-align: center;
+    margin-top: 30px;
+    color: gray;
+}
+
+.button {
+    text-align: center;
+    padding: 20px;;
+}
+
+.buton{
+    height:50px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+form{
+    width: 80%;
+    margin: auto;
+
+}
+
+#uname, #upassword {
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.sign {
+    text-align: center;
+    margin-top: 30px;
+    
+}
+
+.sgnbuton {
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    background-color: black;
+
+}
+
+.footer{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#signin{
+    color: silver;
+}
+
+span{
+    text-decoration: underline;
+
+}
+
+a {
+    color: white;
+    font-size: 20px;
+}
+
+#buton1 {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    
+}
+
+#buton2 {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+#forgot{
+    color:silver;
+    font-size: 15px;
+}
